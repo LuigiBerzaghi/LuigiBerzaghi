@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luigi.berzaghi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luigi-berzaghi)
+
 ![Luigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiBerzaghi&theme=github_dark&show_icons=true)
 
 ## Tecnologias que uso no dia a dia
