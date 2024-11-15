@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LuigiBerzaghi/LuigiBerzaghi/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/LuigiBerzaghi/LuigiBerzaghi/output/snake.svg](https://github.com/LuigiBerzaghi/LuigiBerzaghi/blob/c79a01241b50dfcbd03e72f71d3bf3ea9ba13e83/snake.yml)" alt="Snake animation" />
 
 ###
