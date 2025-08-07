@@ -1,0 +1,19 @@
+name: Lint
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install linters
+        run: |
+          npm install -g markdownlint-cli
+          pip install --no-cache-dir yamllint
+      - name: Run markdownlint
+        run: markdownlint README.md
+      - name: Run yamllint
+        run: yamllint .
